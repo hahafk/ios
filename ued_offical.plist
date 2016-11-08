@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.qorosauto.QorosSalesApp</string>
+				<string>com.uedc.lottery</string>
 				<key>bundle-version</key>
 				<string>2.3.5.1</string>
 				<key>kind</key>
